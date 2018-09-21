@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="select">How active are you?</string>
+
+    <string-array name="activity">
+        <item>Rarely exercise</item>
+        <item>Light exercise, and/or 1 to 2 d/w</item>
+        <item>Moderate exercise, and/or 3 to 5 d/w</item>
+        <item>Heavy exercise, and/or 6 to 7 d/w</item>
+        <item>Athlete, exercise 2+ per day</item>
+    </string-array>
+</resources>
