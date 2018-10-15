@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "662370767437",
+    "firebase_url": "https://comp5612-a96e2.firebaseio.com",
+    "project_id": "comp5612-a96e2",
+    "storage_bucket": "comp5612-a96e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662370767437:android:b784ce64558fcc6e",
+        "android_client_info": {
+          "package_name": "au.edu.sydney.comp5216.nutrientcalculation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662370767437-jcreoslohjb7g2ainv6hh07ipih693kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDtLCqQWa6bhhSLojlxOyEuLhoOUlr30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
